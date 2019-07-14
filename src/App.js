@@ -15,8 +15,6 @@ export default class App extends React.Component {
         humidity : undefined,
         description : undefined,
         error : undefined
-        //git testing
-        
     }
 
     getWeather = async (e) => {
